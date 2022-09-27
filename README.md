@@ -1,7 +1,9 @@
+
 # khumkhom-generator
 
-npm install
-npm run dev
+    npm install
+    npm run dev
+เขียนและโหลดคำคมสุดจ๊าบขอบคุณ
 
 ![image](https://user-images.githubusercontent.com/108406986/192497063-0ff8ec97-4524-4a0a-a6d9-f42781734ae9.png)
 
