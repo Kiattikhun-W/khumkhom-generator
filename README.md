@@ -2,6 +2,7 @@
 # khumkhom-generator
 
     npm install
+    
     npm run dev
 เขียนและโหลดคำคมสุดจ๊าบของคุณ
 
